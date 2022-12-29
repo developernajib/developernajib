@@ -7,13 +7,13 @@
 <p align="left"> <a href="https://twitter.com/developernajib" target="blank"><img src="https://img.shields.io/twitter/follow/developernajib?logo=twitter&style=for-the-badge" alt="developernajib" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developernajib&label=Profile%20views&color=0e75b6&style=flat" alt="developernajib" /> </p>
 
-- 🤝 I’m currently working with **Web & Blockchain**
+- 🤝 I’m currently working on **Web & Blockchain**
 
 - 🌱 I’m currently learning **Laravel, MERN & Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://devnajib.netlify.app/](https://devnajib.netlify.app/)
 
-- 💬 Ask me about **Laravel, MERN, Blockchain & Hyperledger**
+- 💬 Ask me about **Laravel, MERN, Web3.0, Blockchain & Hyperledger**
 
 - 📫 How to reach me **najibivy1@gmail.com**
 
