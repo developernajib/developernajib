@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **najibivy1@gmail.com**
 
-- ⚡ The truth **Nothing is true, everything is permitted that's why we work with the backend to serve the frontend.**
+- ⚡ The truth:- **Nothing is true, everything is permitted because we work with the backend to serve the frontend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
