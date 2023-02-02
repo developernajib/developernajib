@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack & Blockchain Developer from Bangladesh</h3>
 
 
-<p align="center"> <a href="https://devnajib.netlify.app/"><img src="https://i.ibb.co/ZxNMZmw/Najib-CV.png" alt="DeveloperNajib" /></a> </p>
+<p align="center"> <a href="https://devnajib.netlify.app/"><img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="DeveloperNajib" style="width: 58%;" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/developernajib" target="blank"><img src="https://img.shields.io/twitter/follow/developernajib?logo=twitter&style=for-the-badge" alt="@DeveloperNajib" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developernajib&label=Profile%20views&color=0e75b6&style=flat" alt="DeveloperNajib" /> </p>
