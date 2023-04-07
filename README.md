@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Najib Islam</h1>
-<h3 align="center">A passionate Full stack & Blockchain Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer & Blockchain Developer from Bangladesh</h3>
 
 
 <p align="center"> <a href="https://devnajib.netlify.app/"><img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="DeveloperNajib" style="width: 58%;" /></a> </p>
