@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Laravel, MERN, Web3.0, Blockchain & Hyperledger**
 
-- 📫 How to reach me **najibivy1@gmail.com**
+- 📫 How to reach me **developernajib@gmail.com**
 
 - ⚡ The truth:- **Lets build something new and travel the world**
 
